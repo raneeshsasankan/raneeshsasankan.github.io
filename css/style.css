@@ -179,7 +179,7 @@ fieldset[disabled] .btn-xl:hover, .btn-xl.disabled:focus, .btn-xl[disabled]:focu
 }
 
 header {
-    background-image: url(../img/priom.jpg);
+    
     background-repeat: none;
     background-attachment: scroll;
     background-position: center;
