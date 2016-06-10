@@ -275,7 +275,8 @@ section h3.section-subheading {
     display: block;
     position: relative;
     max-width: 400px;
-    margin: 0 auto;
+    margin: 0 auto;border: 1px solid #E9E9E9;  
+    border-bottom: none;
 }
 #portfolio .portfolio-item .portfolio-link .portfolio-hover {
     background: rgba(46,8, 84, .6);
@@ -313,6 +314,8 @@ section h3.section-subheading {
     background-color: #fff;
     text-align: center;
     padding: 25px;
+    border: 1px solid #E9E9E9;
+    border-top: none;
 }
 #portfolio .portfolio-item .portfolio-caption h4 {
     text-transform: none;
@@ -429,6 +432,7 @@ footer span.copyright {
 }
 .portfolio-modal .modal-content img {
     margin-bottom: 30px;
+    border: 1px solid #E9E9E9;
 }
 .portfolio-modal .close-modal {
     position: absolute;
